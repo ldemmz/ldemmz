@@ -1,16 +1,14 @@
-### Hi there 👋
+<div align="center">
 
-<!--
-**ldemmz/ldemmz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=32CD32&background=000000&center=true&vCenter=true&width=435&lines=Sejam+bem+vindos!)](https://git.io/typing-svg)
+</div>
 
-Here are some ideas to get you started:
+<div align="center">
+  <img src="https://64.media.tumblr.com/1ce7350fdcb9bceeeb48f4cd436094e6/24b4a9945c980822-28/s400x600/b665bad8ab35a669accb558ab8d117faeea98ea7.gifv" alt="Alien">
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/leonardor99/)
+[![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/lel_lql/)
+</div>
